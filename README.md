@@ -1,6 +1,6 @@
 # git-demo
 git demo file
 # Teacher
-Shradha Khapra
+Self Study
 # Student
-Kiti through Delta
+Kiti Jha
